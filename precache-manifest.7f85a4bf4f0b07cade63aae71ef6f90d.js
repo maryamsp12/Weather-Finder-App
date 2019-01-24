@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/Weather-Finder-App/static/js/main.0730298a.chunk.js"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/Weather-Finder-App/static/media/glyphicons-halflings-regular.448c34a5.woff2"
-  },
-  {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/Weather-Finder-App/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/Weather-Finder-App/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
