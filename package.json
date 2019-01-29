@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maryamsp12.github.io/Weather-Finder-App",
+  "homepage": "https://maryamsp12.github.io/Weather-Finder-App/",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^16.7.0",
